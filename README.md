@@ -1,4 +1,8 @@
-# Notebook-de-Estudos!
+[![author](https://img.shields.io/badge/author-ligiagvs-red.svg)](https://www.linkedin.com/in/lígiavieira) [![](https://img.shields.io/badge/python-3.7+-blue.svg)
+
+
+### Meu primeiro repositório 
+
  <p align="center">
   <img src="https://t3.ftcdn.net/jpg/04/03/18/96/240_F_403189653_Q9wPoINsOD3txLEtQIT6g97I0KaGNVjd.jpg" >
 </p>
@@ -14,4 +18,3 @@ About me:
 Infrastructure Designer, Graduated in Road Technician. Intermediary English. Experience in geoprocessing, data processing in software, specification, volumetric and aerial calculation, works with georeferenced images, ortified  mosaics, digital image processing. Technical reports elaboration, 3D Laser Scanner, Conventional Topography Drones.
 
 
-* [LinkedIn](www.linkedin.com/in/lígiavieira)
